@@ -8,16 +8,16 @@ A library catalogue system built using the MERN stack to have some of your favou
 ![ListBooks](docs/ListBooks.png)
 
 ## Links to GitHub Repository (Main Branch)
-GitHub Project Repository: https://github.com/naveen1994rai/library-booking-system
+GitHub Project Repository: https://github.com/Fortunecookies4424/Project-work-
 
 
 ### To run the app
 1. Clone the repo 
    1. Using https:
-      `$ git clone https://github.com/naveen1994rai/library-booking-system.git`
+      `$ git clone git@github.com:Fortunecookies4424/Project-work-.git`
    
    2. Using SSH:
-      `$ git clone git@github.com:naveen1994rai/library-booking-system.git`
+      `$ git clone git@github.com:Fortunecookies4424/Project-work-.git`
 
 2. Install the application dependencies with :
   #### Server
